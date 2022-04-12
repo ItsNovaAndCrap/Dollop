@@ -27,9 +27,15 @@
     <ClInclude Include="src\Dollop\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Dollop\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Dollop\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Dollop\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
